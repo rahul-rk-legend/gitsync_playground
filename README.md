@@ -18,3 +18,10 @@
 |Playbook Default 1||
 |Playbook Folder 1||
 
+
+## Jobs
+|Name|Description|
+|----|-----------|
+|projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/7|This job will sync new SOAR alerts with Chronicle SIEM.Note: This job is only supported from Chronicle SOAR version 6.2.30 and higher.|
+|projects/project/locations/location/instances/instance/integrations/SampleIntegration/jobs/41/jobInstances/6|This is an example of a simple job. It has 2 functions: if a case has a tag "Closed", it will close the case from the job, if a case has a tag "Currency", it will add a comment to the case.|
+
