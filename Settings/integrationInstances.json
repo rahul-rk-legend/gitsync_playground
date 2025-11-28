@@ -1,0 +1,195 @@
+[
+    {
+        "environment": "B",
+        "integrationIdentifier": "SampleIntegration",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "SampleIntegration_1",
+            "settings": [
+                {
+                    "propertyName": "API Root",
+                    "value": "https://api.vatcomply.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "String",
+                    "isMandatory": true,
+                    "id": 39,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API Root for the integration. In this case, we are integrating with \"api.vatcomply.com\" service.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "becfa6e3-739b-4d1d-b462-da1e0917db12"
+                },
+                {
+                    "propertyName": "Password Field",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": false,
+                    "id": 40,
+                    "propertyDisplayName": "Password Field",
+                    "propertyDescription": "Example of API password field parameter. API doesn't require authentication, this parameter is just for showcase purpose.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "becfa6e3-739b-4d1d-b462-da1e0917db12"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 41,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If selected, the integration validates the SSL certificate when connecting to API Service. Selected by default.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "becfa6e3-739b-4d1d-b462-da1e0917db12"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "A",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "VirusTotalV3_1",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": true,
+                    "id": 43,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "5b60ffe2-0999-47ae-9358-5961a56af711"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 44,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "5b60ffe2-0999-47ae-9358-5961a56af711"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "Default Environment",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "System Default Instance",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": true,
+                    "id": 18,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "b57ff297-7005-49b6-8521-bb24d4fa7e4c"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 19,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "b57ff297-7005-49b6-8521-bb24d4fa7e4c"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "Default Environment",
+        "integrationIdentifier": "SampleIntegration",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "System Default Instance",
+            "settings": [
+                {
+                    "propertyName": "API Root",
+                    "value": "https://api.vatcomply.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "String",
+                    "isMandatory": true,
+                    "id": 22,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API Root for the integration. In this case, we are integrating with \"api.vatcomply.com\" service.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "897d19b8-e9c9-41f5-929b-656f91a698e2"
+                },
+                {
+                    "propertyName": "Password Field",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": false,
+                    "id": 23,
+                    "propertyDisplayName": "Password Field",
+                    "propertyDescription": "Example of API password field parameter. API doesn't require authentication, this parameter is just for showcase purpose.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "897d19b8-e9c9-41f5-929b-656f91a698e2"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 24,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If selected, the integration validates the SSL certificate when connecting to API Service. Selected by default.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "897d19b8-e9c9-41f5-929b-656f91a698e2"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "Default Environment",
+        "integrationIdentifier": "FileUtilities",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "System Default Instance",
+            "settings": [
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 3,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "Verify SSL Certificates when executing requests to Chronicle SOAR instance.",
+                    "integrationIdentifier": "FileUtilities",
+                    "integrationInstance": "83eccdb2-4f0c-4ba8-93b5-05c1aebf7a1b"
+                }
+            ]
+        }
+    }
+]
