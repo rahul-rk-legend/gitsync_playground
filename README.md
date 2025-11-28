@@ -3,6 +3,7 @@
 ## Integrations
 |Name|Description|
 |----|-----------|
+|Akamai|Akamai provides security services deployed across a global edge network. This includes Web Application Firewall (WAF) capabilities identifying web-based attacks, Bot Management distinguishing between human and automated traffic, DDoS mitigation services absorbing malicious traffic floods, and API security protections. Akamai generates security event data reflecting threats detected and actions taken at the internet edge.|
 |CSV|Integration designed around working with CSV files. CSV is a simple file format used to store tabular data, such as a spreadsheet or database.|
 |FileUtilities|A set of file utility actions created for Google SecOps Community to power up playbook capabilities.|
 |Functions|A set of math and data manipulation actions created for Google SecOps Community to power up playbook capabilities.|

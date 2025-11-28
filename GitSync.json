@@ -1,7 +1,9 @@
 {
     "system_version": "6.3.67.0",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "Akamai": "Adding a readme for integration"
+        },
         "Mappings": {},
         "Visual Family": {
             "Playground Family 2": "Adding a readme on playground",
