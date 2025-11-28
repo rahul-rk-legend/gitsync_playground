@@ -12,7 +12,9 @@
         },
         "Playbook": {},
         "Connector": {},
-        "Job": {}
+        "Job": {
+            "projects/project/locations/location/instances/instance/integrations/Splunk/jobs/43/jobInstances/11": "adding a readme for Jobs"
+        }
     },
     "settings": {
         "update_root_readme": true
