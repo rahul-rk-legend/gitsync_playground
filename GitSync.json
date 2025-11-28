@@ -12,7 +12,9 @@
             "Playground Family 2": "Adding a readme on playground",
             "Playground Family 3": "Adding a readme on playground"
         },
-        "Playbook": {},
+        "Playbook": {
+            "Playbook Folder 2 - Test 1": "adding a readme for playbooks"
+        },
         "Connector": {},
         "Job": {
             "projects/project/locations/location/instances/instance/integrations/Splunk/jobs/43/jobInstances/11": "adding a readme for Jobs"
