@@ -5,7 +5,9 @@
             "Akamai": "Adding a readme for integration",
             "CrowdStrikeFalcon": "Adding a readme for integration"
         },
-        "Mappings": {},
+        "Mappings": {
+            "Splunk": "adding a readme for mappings"
+        },
         "Visual Family": {
             "Playground Family 2": "Adding a readme on playground",
             "Playground Family 3": "Adding a readme on playground"
