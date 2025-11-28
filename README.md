@@ -19,6 +19,7 @@
 |----|-----------|
 |Playbook Default 1||
 |Playbook Folder 1||
+|Playbook Folder 1 - Test 1||
 |Playbook Folder 2 - Test 1||
 
 
