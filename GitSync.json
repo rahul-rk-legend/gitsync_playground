@@ -2,7 +2,8 @@
     "system_version": "6.3.67.0",
     "readme_addons": {
         "Integration": {
-            "Akamai": "Adding a readme for integration"
+            "Akamai": "Adding a readme for integration",
+            "CrowdStrikeFalcon": "Adding a readme for integration"
         },
         "Mappings": {},
         "Visual Family": {
